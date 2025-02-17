@@ -1,0 +1,148 @@
+
+/*Alegria*/ 
+
+#body-alegria {
+    background-color: #3A89CC
+}
+#body-alegria .container .main .elemento {
+    background-color: #3A89CC
+}
+#body-alegria .container .main .elemento h1 {
+    -webkit-text-stroke-color: rgb(195, 200, 83);    
+}
+#body-alegria .container .main .elemento p {
+    -webkit-text-stroke-color: rgb(164, 166, 101);
+    color: #e4e4a6; 
+}
+#body-alegria .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(185, 168, 103);
+    color: #dcdc79;
+}
+
+
+
+/*Inveja*/ 
+
+#body-inveja{
+    background-color: #0e9d8f
+}
+#body-inveja .container .main .elemento{
+    background-color: #0e9d8f
+}
+#body-inveja .container .main .elemento h1 {
+    -webkit-text-stroke-color: rgb(214, 224, 68);
+
+}
+
+#body-inveja .container .main .elemento p {
+    -webkit-text-stroke-color: rgb(217, 199, 54);
+    color: #fcfcef;
+    margin: 80px 150px 80px 150px;
+    text-align: center;
+}
+
+#body-inveja .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(243, 216, 118);
+    color: #d3d3cb;
+}
+
+
+/*Medo*/ 
+
+#body-medo {
+    background-color: #A728B3
+}
+#body-medo .container .main .elemento {
+    background-color: #A728B3
+}
+#body-medo .container .main .elemento h1 {
+    -webkit-text-stroke-color: rgb(238, 247, 120);
+    color: #efe898e4;
+}
+#body-medo .container .main .elemento p {
+    -webkit-text-stroke-color: rgb(194, 196, 147);
+    color: #f1f1bd;
+    text-align: center;
+    margin: 0 150px 80px 150px;
+}
+#body-medo .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(211, 192, 118);
+    color: #eeeed2;
+    margin: top;
+}
+
+
+/*Nojinho*/ 
+
+#body-nojinho{
+    background-color: #60a739;
+}
+#body-nojinho .container .main .elemento {
+    background-color: #60a739;
+}
+#body-nojinho .container .main .elemento h1 {
+    -webkit-text-stroke-color: rgb(195, 200, 83);
+    color: #fffff5;
+}
+#body-nojinho .container .main .elemento p {
+    -webkit-text-stroke-color: rgb(227, 201, 96);
+    color: #ffffff;
+    margin: 80px 150px 80px 150px;
+}
+#body-nojinho  .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(227, 201, 96);
+    color: #f8f8d6;         
+}
+
+
+/*Raiva*/ 
+
+#body-raiva{ 
+    background-color: #ae1212
+}
+
+#body-raiva .container .main .elemento {
+    background-color: #ae1212
+}
+#body-raiva .container .main .elemento h1 {
+    -webkit-text-stroke-color: rgb(221, 230, 62);
+    color: #fffff5;
+    text-align: center;
+}
+#body-raiva .container .main .elemento p {
+    -webkit-text-stroke-color: rgb(227, 201, 96);
+    color: #f7f7f7;
+    text-align: center;
+    margin: 80px 150px 80px 150px;
+}
+#body-raiva  .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(232, 216, 153);
+    color: #a7a766; 
+    margin: 0px 150px 0px 150px;
+}
+
+/*Raiva*/ 
+
+#body-tristeza{ 
+    background-color:#7096D1
+}
+
+#body-tristeza .container .main .elemento {
+    background-color:#7096D1
+}
+#body-tristeza .container .main .elemento h1 {
+    -webkit-text-stroke-color: #dabc39;
+    color: #fffff5;
+    text-align: center;
+}
+#body-tristeza .container .main .elemento p {
+    -webkit-text-stroke-color: #D4AF37;
+    color: #fff7f7;
+    text-align: center;
+    margin: 80px 150px 80px 150px;
+}
+#body-tristeza .container .main .elemento .versiculo {
+    -webkit-text-stroke-color: rgb(221, 188, 54);
+    color: #e6e6e6;
+    margin: 0px 150px 0px 150px;
+}
